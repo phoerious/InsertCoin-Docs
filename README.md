@@ -54,6 +54,22 @@ That's it. You can get more information about the Markdown syntax on
 Note that you can *only* use Markdown. HTML is not allowed and will be escaped
 by the staging server.
 
+## How do I edit the files?
+You can do that with any text editor you like but it needs to be a *plain text* editor.
+I.e. you shouldn't use OpenOffice or MS Word.
+
+Windows users can use Notepad which ships with Windows, but that produces a lot of
+problems. Better use another editor such as [Notepad++](http://notepad-plus-plus.org/).
+
+Linux users can edit the files with editors such as Gedit, Geany, Kate or whatever
+ships with your distribution. If you don't have any of these have a look at your
+software package manager.
+
+OS X users may download [TextWrangler](http://www.barebones.com/products/textwrangler/)
+or [Smultron](http://www.free-mac-software.com/smultron/).
+
+But of course you can also use any other editor which supports editing plain text files.
+
 ## A few things about writing style, grammar and spelling
 In an ideal world, docs are a pleasure to read. Actually, this can't be always the
 case but we also shouldn't make things worse than necessary.
