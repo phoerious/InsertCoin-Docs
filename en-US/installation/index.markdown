@@ -56,7 +56,7 @@ your bootloader will void your warranty and doing it the revolutionary way can
 be reverted back to stock if a warranty repair is required. Whilst the HTC way
 is done through them and they could hold your serial number to track handsets
 that have been unlocked using that method. For more information on the
-revolutionary way head on over to [http://revolutionary.io/].
+revolutionary way head on over to [http://revolutionary.io/](http://revolutionary.io/).
 
 **NOTE: we're not responsible for any harm you do to your phone by unlocking the
 bootloader. Doing so might void you warranty or brick your device. We can't be
@@ -64,7 +64,8 @@ held to account for this!**
 
 ## Installation
 Once you've unlocked your phone we can start the installation. First you need to
-download the latest ROM version, which can be found on [http://insertcoinrom.blogspot.com/].
+download the latest ROM version, which can be found on
+[http://insertcoinrom.blogspot.com/](http://insertcoinrom.blogspot.com/).
 As with anything it is always best to have the latest version, updates are often released
 to fix bugs, add optimizations etc.
 
