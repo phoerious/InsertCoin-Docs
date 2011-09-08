@@ -24,17 +24,18 @@ be corrupt and/or modified with malicious software. To check these match is
 easy all you need to do is follows. 
 
 **Mac OS X:** Open terminal and type *openssl md5 /path-to-file/file.zip* 
-e.g. *openssl md5 /Users/ME/Downloads/InsertCoin_Sensation_Android_2.3.5_Stable_2_4.0.zip*
+(e.g. *openssl md5 /Users/ME/Downloads/InsertCoin_Sensation_Android_2.3.5_Stable_2_4.0.zip*)
 
 **Linux:** Open terminal and type *md5sum /path-to-file/file.zip*
-e.g. *md5sum /Users/ME/Downloads/InsertCoin_Sensation_Android_2.3.5_Stable_2_4.0.zip*
+(e.g. *md5sum /home/ME/Downloads/InsertCoin_Sensation_Android_2.3.5_Stable_2_4.0.zip*)
 
 **Windows:** Download *md5sum.exe* and copy the file to *C:\Windows*, Open a DOS
 prompt by clicking “Run” in the start menu, then type cmd, In the DOS prompt
 window, use the cd command to navigate to the subdirectory where you stored
 the downloaded file. For example, assume that your downloaded file is in
-*C:\My Documents\Downloads\*, then the command would be: *cd "My Documents\Downloads"*,
-Now type *md5sum filename.zip* and the MD5 sum will be displayed.
+*C:\Users\ME\My Documents\Downloads\*, then the command would be:
+*cd "C:\Users\ME\My Documents\Downloads"*. Now type *md5sum filename.zip* and
+the MD5 sum will be displayed.
 
 ## What is a bootloader?
 Every Android phone has a bootloader that loads the operating system on the
