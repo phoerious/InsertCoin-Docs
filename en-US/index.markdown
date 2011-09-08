@@ -26,5 +26,5 @@ on this project. You'll find a list in the [credits](/master/en-US/credits.html)
 ## Table of contents
 This documentation contains the following pages:
 
- * [Installation instructions](/master/en-US/installation/index.html)
+ * [Installation instructions](/master/en-US/installation/)
  * [Credits](/master/en-US/credits.html)
