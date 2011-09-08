@@ -73,12 +73,12 @@ foget to add it do the index file.
 
 ## And the credit goes to…
 Have you worked on the docs? Great! The least we can do is to credit that to you.
-Feel free to add you to the *credits.markdown* file. You can use your real name
+Feel free to add your name to the *credits.markdown* file. You can use your real name
 or any pseudonym you like (both is also okay). If you like, you can also set a link
 to your homepage (unless it contains unlawful, offending, pornographic or otherwise
 inappropriate content, of course).
 
-You may also add you to this file if you just corrected a spelling mistake or so.
+You may also add your name to this file if you just corrected a spelling mistake or so.
 That is also important work which needs to be done and not many people feel like
 doing it.
 
