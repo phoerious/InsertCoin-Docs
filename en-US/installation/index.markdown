@@ -65,7 +65,7 @@ held to account for this!**
 ## Installation
 Once you've unlocked your phone we can start the installation. First you need to
 download the latest ROM version, which can be found on
-[http://insertcoinrom.blogspot.com/](http://insertcoinrom.blogspot.com/).
+[http://insertcoin-roms.org/](http://insertcoin-roms.org/).
 As with anything it is always best to have the latest version, updates are often released
 to fix bugs, add optimizations etc.
 
