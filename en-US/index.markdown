@@ -7,7 +7,7 @@ It's open to anybody. We'd love to hear from you.
 ## Important things to know
 InsertCoin is a custom ROM for HTC phones cooked by *baadnewz*. You can always find
 the latest versions on [insertcoin-roms.org](http://insertcoin-roms.org/)
-with short instructions about requirements and and changelog.
+with short instructions about requirements and changelog.
 
 There is also a huge thread on [XDA-Developers.com](http://forum.xda-developers.com/showthread.php?t=1198684)
 where all development related discussions take place. If you have questions,
