@@ -3,12 +3,13 @@
 Welcome to the official [community-driven documentation project](http://docs.insertcoin-roms.org)
 for InsertCoin ROM.
 
-If you want to contribute to this project, you're free to fork the Git repository,
-work on it and then send a pull request. We'd love to merge your changes.
+The documentation is maintained in a Git repository. If you want to contribute
+to this project, you're free to fork the repository, work on it and then send
+a pull request. We'd love to merge your changes.
 
-Currently the project is in a very early stage, so noob-proof instructions on how
-to participate are still being worked on. Stay tuned! If you already know what Git is
-and how to use it, you're welcome to start working on the project right now.
+If you don't know how to work with Git or why the hell we're using it, please refer to
+[our little Wiki](https://github.com/Manko10/InsertCoin-Docs/wiki) on GitHub.com
+first.
 
 ## File naming conventions and folder structure
 The documentation is automatically fetched by a staging server which generates a
