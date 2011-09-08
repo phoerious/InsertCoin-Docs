@@ -22,6 +22,10 @@ for this documentation also exists. Use that for discussion related to the docs.
 And of course we would also like to mention all the contributors who have worked
 on this project. You'll find a list in the [credits](/master/en-US/credits.html).
 
+## How can I contribute?
+The documentation is maintained in a Git repository, which is hosted on [GitHub](http://www.github.com/).
+To find out how to make your own changes to the docs read the tutorials in our little
+[GitHub wiki](https://github.com/Manko10/InsertCoin-Docs/wiki).
 
 ## Table of contents
 This documentation contains the following pages:
