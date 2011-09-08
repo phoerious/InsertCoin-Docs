@@ -34,7 +34,7 @@ files appear correctly on this website you have to follow five guidelines:
    the en-US folder, rename it to your language and start translating.
  * The docs are written in Markdown, a very simple markup language. You might already
    know it from several blogs or wikis. These files MUST have the extension  *.markdown*
-   (only lowercases, not spaces). Otherwise they will be ignored by the staging
+   (only lowercases, no spaces). Otherwise they will be ignored by the staging
    server. If you want to upload other files (e.g. images) create a folder called
    *assets* in your current directory. This folder can contain files with any extension.
    Note that each file should at least contain one first-level heading. This is

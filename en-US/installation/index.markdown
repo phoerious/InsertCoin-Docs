@@ -34,7 +34,7 @@ prompt by clicking “Run” in the start menu, then type cmd, In the DOS prompt
 window, use the cd command to navigate to the subdirectory where you stored
 the downloaded file. For example, assume that your downloaded file is in
 *C:\My Documents\Downloads\*, then the command would be: *cd "My Documents\Downloads"*,
-Now type *md5sum filename.zip* and the MD5 Sum will be displayed.
+Now type *md5sum filename.zip* and the MD5 sum will be displayed.
 
 ## What is a bootloader?
 Every Android phone has a bootloader that loads the operating system on the
