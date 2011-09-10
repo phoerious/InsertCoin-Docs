@@ -8,7 +8,7 @@ to all of them!
 
 
 ## Writers
- * n1kon
+ * Andy Longhurst (n1kon)
  * Sym_Link
  
 
