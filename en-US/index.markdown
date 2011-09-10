@@ -32,3 +32,4 @@ This documentation contains the following pages:
 
  * [Installation instructions](/master/en-US/installation/)
  * [Credits](/master/en-US/credits.html)
+ * [Android SDK Installation](/master/en-US/AndroidSDK)
