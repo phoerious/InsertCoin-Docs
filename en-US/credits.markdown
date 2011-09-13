@@ -10,6 +10,7 @@ to all of them!
 ## Writers
  * Andy Longhurst (n1kon)
  * Sym_Link
+ * Alex Diaz
  
 
 ## And don't forget…

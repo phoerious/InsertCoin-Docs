@@ -1,4 +1,4 @@
-# InsertCoin ROM documentation (en-US)
+# InsertCoin ROM Docs
 
 Welcome to the official InsertCoin ROM documentation project. It is a community
 project which everyone can contribute to. If you like you can take part as well.
