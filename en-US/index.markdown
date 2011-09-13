@@ -32,4 +32,6 @@ This documentation contains the following pages:
 
  * [Installation instructions](/master/en-US/installation/)
  * [Credits](/master/en-US/credits.html)
- * [Android SDK Installation](/master/en-US/AndroidSDK)
+ * [Android SDK Installation](/master/en-US/AndroidSDK/)
+ * Misc
+    * [Free some space on phone's memory without DATA2EXT](/master/en-US/misc/freespacewithoutdata2ext.html)
