@@ -34,4 +34,4 @@ This documentation contains the following pages:
  * [Credits](/master/en-US/credits.html)
  * [Android SDK Installation](/master/en-US/AndroidSDK/)
  * Misc
-    * [Free some space on phone's memory without DATA2EXT](/master/en-US/misc/freespacewithoutdata2ext.html)
+    * [Free some space on phone's memory without DATA2EXT](/master/en-US/misc/free-space-without-data2ext.html)
