@@ -22,6 +22,11 @@ for this documentation also exists. Use that for discussion related to the docs.
 And of course we would also like to mention all the contributors who have worked
 on this project. You'll find a list in the [credits](/master/en-US/credits.html).
 
+## About this documentation
+This is the documentation for the latest InsertCoin ROM branch. There are several
+variants for Sensation, Desire and EVO as well as older versions of these variants.
+Have alook at the branches list in the sidebar at the right.
+
 ## How can I contribute?
 The documentation is maintained in a Git repository, which is hosted on [GitHub](http://www.github.com/).
 To find out how to make your own changes to the docs read the tutorials in our little
@@ -35,3 +40,4 @@ This documentation contains the following pages:
  * [Android SDK Installation](/master/en-US/AndroidSDK/)
  * Misc
     * [Free some space on phone's memory without DATA2EXT](/master/en-US/misc/free-space-without-data2ext.html)
+    * [Troubleshooting](/master/en-US/misc/troubleshooting.html)
