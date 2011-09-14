@@ -26,7 +26,7 @@ on this project. You'll find a list in the [credits](/2.2SE/en-US/credits.html).
 This is the documentation for **InsertCoin 2.2.x (S)SE** for the HTC Sensation
 which currently is the most stable version of InsertCoin ROM.
 There are several variants for Sensation, Desire and EVO as well as older or newer
-versions of these variants. Have alook at the branches list in the sidebar at the right.
+versions of these variants. Have a look at the branches list in the sidebar at the right.
 
 
 ## How can I contribute?
