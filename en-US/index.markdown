@@ -28,7 +28,6 @@ which currently is the most stable version of InsertCoin ROM.
 There are several variants for Sensation, Desire and EVO as well as older or newer
 versions of these variants. Have a look at the branches list in the sidebar at the right.
 
-
 ## How can I contribute?
 The documentation is maintained in a Git repository, which is hosted on [GitHub](http://www.github.com/).
 To find out how to make your own changes to the docs read the tutorials in our little
