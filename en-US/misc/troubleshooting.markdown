@@ -2,6 +2,7 @@
 This page will help you to solve common problems with InsertCoin.
 
 ## Market problems
+
 * **Problem:** App download from Market causes “Error downloading <application name>.
   There isinsufficient space on the device.”
   
@@ -16,9 +17,11 @@ This page will help you to solve common problems with InsertCoin.
   not work on its own try Question 1’s fix.
   
 * **Problem:** You get a “Authourizing Purchase” hang.
+  
   **Fix:** Isn’t one as such, this is a problem on the Google backend and nothing we
   can do about it. If you try and download more than 5 or 6 apps all at once the market can get
   all confused and just “hangs” on you, try downloading fewer apps in one go.
+
 
 ## Problems with WIFI
 
