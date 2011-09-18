@@ -23,9 +23,9 @@ And of course we would also like to mention all the contributors who have worked
 on this project. You'll find a list in the [credits](/2.4/en-US/credits.html).
 
 ## About this documentation
-This is the documentation for the latest InsertCoin ROM branch. There are several
-variants for Sensation, Desire and EVO as well as older versions of these variants.
-Have alook at the branches list in the sidebar at the right.
+This is the documentation for InsertCoin ROM 2.4. *Wich is not the latest version!*
+There are several variants for Sensation, Desire and EVO as well as older versions
+of these variants. Have a look at the branches list in the sidebar at the right.
 
 ## How can I contribute?
 The documentation is maintained in a Git repository, which is hosted on [GitHub](http://www.github.com/).
