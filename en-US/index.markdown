@@ -27,7 +27,7 @@ This is the documentation for the latest and hottest InsertCoin ROM branch. Thou
 this branch is considered being stable, you might also want to check out the
 [2.2.x SE branch](/2.2SE/en-US/).
 There are several variants for Sensation, Desire and EVO as well as older versions
-of these variants. Have alook at the branches list in the sidebar at the right.
+of these variants. Have a look at the branches list in the sidebar at the right.
 
 ## How can I contribute?
 The documentation is maintained in a Git repository, which is hosted on [GitHub](http://www.github.com/).
