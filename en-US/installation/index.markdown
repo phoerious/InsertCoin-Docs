@@ -78,6 +78,9 @@ below thoroughly.
 **Also be aware that wiping your phone in order to install InsertCoin ROM will
 erase ALL your data on the device. Please make a backup before proceeding!**
 
+01. Choose you IC type: app2sd or CM7.
+02. If CM7: need to change the hboot. Use "Bravo CM7 r2"'s hboot at: http://alpharev.nl/
+
 ### How do I flash InsertCoin ROM?
  1. Make sure you have the latest FULL ROM and place it on your SD card. 
  2. Boot into recovery by powering off your device and turning it back on
