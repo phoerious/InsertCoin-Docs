@@ -9,16 +9,24 @@ InsertCoin is a custom ROM for HTC phones cooked by *baadnewz*. You can always f
 the latest versions on [insertcoin-roms.org](http://insertcoin-roms.org/)
 with short instructions about requirements and changelog.
 
-There is also a huge thread on [XDA-Developers.com](http://forum.xda-developers.com/showthread.php?t=1198684)
-where all development related discussions take place. If you have questions,
-suggestions or bug reports, you may probably post it there.
+### Discussion platforms
+For discussion about InsertCoin head over to the [InsertCoin forums](http://insertcoin-roms.org/board/).
+
+Additionally there is a huge thread on [XDA-Developers.com](http://forum.xda-developers.com/showthread.php?t=1198684)
+where many development related discussions take place. If you have questions,
+suggestions or bug reports, you may probably post them there.
+
+InsertCoin also has its own forum at
+[rootzwiki.com](http://rootzwiki.com/forumdisplay.php?301-Bricked-Kernel-InsertCoin-ROM).
 
 If you want to chat with other InsertCoin ROM users, use the IRC channel *#baadnwz-roms*
 on *irc.freenode.net*. Also baad is there quite frequently.
 
 An [XDA-Developers thread](http://forum.xda-developers.com/showthread.php?p=17329560)
-for this documentation also exists. Use that for discussion related to the docs.
+for this documentation also exists. You may use that for discussion related to the docs,
+but better open an entry in our [GitHub issue tracker](https://github.com/Manko10/InsertCoin-Docs/issues).
 
+### Contributors
 And of course we would also like to mention all the contributors who have worked
 on this project. You'll find a list in the [credits](/2.4/en-US/credits.html).
 
@@ -36,6 +44,7 @@ To find out how to make your own changes to the docs read the tutorials in our l
 This documentation contains the following pages:
 
  * [Installation instructions](/2.4/en-US/installation/)
+ * [Which InsertCoin ROM version to choose?](/2.4/en-US/version.html)
  * [Credits](/2.4/en-US/credits.html)
  * [Android SDK Installation](/2.4/en-US/AndroidSDK/)
  * Misc
