@@ -37,7 +37,7 @@ This page will help you to solve common problems with InsertCoin.
 ## SD Card Problem:
 
 * **Problem:** I just bought a new sd card and my phone does not see it, I formatted on
-  windows and works fine on my pc. Help!
+  Windows and works fine on my pc. Help!
   
   **Fix:** Make sure the sd card you bought is compatible with your phone. Check
   that it is formatted as FAT32, Windows has a habit of formatting in NTFS and
