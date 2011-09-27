@@ -17,6 +17,7 @@ It exists in two recent versions:
    This is the latest version with the hottest new stuff. As of the time of this
    writing the current version is 2.5.5-2 (but there might already be a newer version
    when you read this).
+   
  * InsertCoin ROM 2.2.5 SE / InsertCoin ROM 2.2.5 SSE
    
    This is currently the most stable version of InsertCoin Sense. If you don't always
@@ -31,6 +32,7 @@ exists in two variants:
    
    This is the normal edition with Dalvic Cache on the SD card. If you're unsure
    which version to use, you might go well with this one.
+   
  * InsertCoin Sense 2.1 CM7
    
    This is basically the same as the version above, but for devices with
