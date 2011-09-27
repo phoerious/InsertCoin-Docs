@@ -29,7 +29,8 @@ This page will help you to solve common problems with InsertCoin.
   
   **Fix:** No official fix, as that is what the airplane mode was designed for, to turn
   off all call functions, data services, Bluetooth, and Wi-Fi.
-  You can however get apps like “Airplane Edit” from here https://market.android.com/details?i...=search_result
+  You can however get apps like “Airplane Edit” from
+  [the Market](https://market.android.com/details?id=net.cenkalti.airplane&feature=search_result).
   That may give you what you want.
 
 
