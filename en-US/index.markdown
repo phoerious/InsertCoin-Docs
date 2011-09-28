@@ -45,7 +45,7 @@ To find out how to make your own changes to the docs read the tutorials in our l
 This documentation contains the following pages:
 
  * [Installation instructions](/2.2SE/en-US/installation/)
- * [Which InsertCoin ROM version to choose?](/2.2SE/en-US/version.html)
+ * [Which InsertCoin ROM version to choose?](/2.2SE/en-US/versions.html)
  * [Credits](/2.2SE/en-US/credits.html)
  * [Android SDK Installation](/2.2SE/en-US/AndroidSDK/)
  * Misc
