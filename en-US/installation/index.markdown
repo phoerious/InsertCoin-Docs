@@ -79,13 +79,26 @@ below thoroughly.
 erase ALL your data on the device. Please make a backup before proceeding!**
 
 ### Before you start
+
+#### SD Card
+You need a 1 GB ext3/4 partition on your card, after the FAT32 partition.Required partition table:
+- X Gb FAT32
+- 1 Gb ext3/4
+- 
 01. Get a big SD card
-02. Partition the card order: [  Xgb FAT32    ][1gb ext3/4] (step 5 of http://forum.xda-developers.com/showthread.php?t=1016084)
-01. Choose you IC type: app2sd or CM7.
-02. If CM7: need to change the hboot. Use "Bravo CM7 r2"'s hboot at: http://alpharev.nl/
+02. Partition the card. See step 5 in  http://forum.xda-developers.com/showthread.php?t=1016084
+
+#### Insert Coin type: cm7 or a2sd
+Insert Coin is available in two "flavours" (see xxx). 
+01. A2SD: proceed directly to the next section (How do I flash InsertCoin ROM?)
+02. CM7: you need to change the HBOOT before proceeding (see next section). 
+
 
 #### Alpharev
-01. Use this method: You can also download the corresponding PB99IMG zipfile, put it on your sdcard, and rename it to PB99IMG.zip. Then start the phone in HBOOT mode (VolDown+POWER) to flash the HBOOT without a PC. It is however still necessary to either restore your nandroid, or reflash your ROM after doing this. The partition LAYOUT has changed, the actual data still needs to be 'moved'
+01. Download the "Bravo CM7 r2"'s hboot at: http://alpharev.nl/ 
+02. Confirm the md5sum of the downloaded file.
+02. Use the 2nd method described in alpharev's site: 
+- You can also download the corresponding PB99IMG zipfile, put it on your sdcard, and rename it to PB99IMG.zip. Then start the phone in HBOOT mode (VolDown+POWER) to flash the HBOOT without a PC. It is however still necessary to either restore your nandroid, or reflash your ROM after doing this. The partition LAYOUT has changed, the actual data still needs to be 'moved'
 
 ### How do I flash InsertCoin ROM?
  1. Make sure you have the latest FULL ROM and place it on your SD card. 
