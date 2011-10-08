@@ -78,6 +78,9 @@ below thoroughly.
 **Also be aware that wiping your phone in order to install InsertCoin ROM will
 erase ALL your data on the device. Please make a backup before proceeding!**
 
+### Before you start
+01. Get a big SD card
+02. Partition the card order: [  Xgb FAT32    ][1gb ext3/4] (step 5 of http://forum.xda-developers.com/showthread.php?t=1016084)
 01. Choose you IC type: app2sd or CM7.
 02. If CM7: need to change the hboot. Use "Bravo CM7 r2"'s hboot at: http://alpharev.nl/
 
