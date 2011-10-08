@@ -82,17 +82,16 @@ erase ALL your data on the device. Please make a backup before proceeding!**
 
 #### SD Card
 You need a 1 GB ext3/4 partition on your card, after the FAT32 partition.Required partition table:
-- X Gb FAT32
-- 1 Gb ext3/4
-- 
+X Gb FAT32
+1 Gb ext3/4
+
 01. Get a big SD card
 02. Partition the card. See step 5 in  http://forum.xda-developers.com/showthread.php?t=1016084
 
 #### Insert Coin type: cm7 or a2sd
-Insert Coin is available in two "flavours" (see xxx). 
-01. A2SD: proceed directly to the next section (How do I flash InsertCoin ROM?)
-02. CM7: you need to change the HBOOT before proceeding (see next section). 
-
+Insert Coin is available in two "flavours" (see xxx).
+1. A2SD: proceed directly to the next section (How do I flash InsertCoin ROM?)
+2. CM7: you need to change the HBOOT before proceeding (see next section). 
 
 #### Alpharev
 01. Download the "Bravo CM7 r2"'s hboot at: http://alpharev.nl/ 
