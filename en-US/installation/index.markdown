@@ -84,6 +84,9 @@ erase ALL your data on the device. Please make a backup before proceeding!**
 01. Choose you IC type: app2sd or CM7.
 02. If CM7: need to change the hboot. Use "Bravo CM7 r2"'s hboot at: http://alpharev.nl/
 
+#### Alpharev
+01. Use this method: You can also download the corresponding PB99IMG zipfile, put it on your sdcard, and rename it to PB99IMG.zip. Then start the phone in HBOOT mode (VolDown+POWER) to flash the HBOOT without a PC. It is however still necessary to either restore your nandroid, or reflash your ROM after doing this. The partition LAYOUT has changed, the actual data still needs to be 'moved'
+
 ### How do I flash InsertCoin ROM?
  1. Make sure you have the latest FULL ROM and place it on your SD card. 
  2. Boot into recovery by powering off your device and turning it back on
