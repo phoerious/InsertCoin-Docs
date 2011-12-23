@@ -89,7 +89,36 @@ geschieht auf eigene Verantwortung!**
 **Beachte außerdem, dass das „Wipen“ deines Handys ALLE Daten auf Selbigem löscht.
 Mache also auf jeden Fall ein Backup bevor du fortfährst!**
 
-### Wie flashe ich InsertCoin ROM?
+### Anmerkungen für Desire-Nutzer
+
+#### SD-Karte
+
+Du musst zunächst  eine 1-GB-ext3/4-Partition auf deiner SD-Karte erstellen, direkt
+hinter der FAT32-Partition (welche eine beliebige Größe haben kann). Folglich
+
+1. Kaufe dir eine große SD-Karte
+2. Partitioniere die Karte wie
+   [hier in Schritt #5 beschrieben](http://forum.xda-developers.com/showthread.php?t=1016084)
+
+#### InsertCoin-ROM-Typ: CM7 und A2SD
+InsertCoin für das Desire kommt in zwei verschiedene „Geschmacksrichtungen“.
+(siehe auch [Welche InsertCoin-Version sollte ich nehmen?](/master/de-DE/versions.html)):
+
+1. A2SD: fahre direkt mit der Installationsanleitung fort (*Wie flashe ich InsertCoin ROM?*)
+2. CM7: du musst vorher dein HBOOT wechseln, bevor du fortfährst (nächster Abschnitt, Alpharev). 
+
+#### Alpharev
+1. Downloade das "Bravo CM7 r2"'s HBOOT unter: [http://alpharev.nl/](http://alpharev.nl/)
+2. Prüfe die MD5-Summe der Datei.
+2. Nutze die zweite auf der Alpharev-Website beschriebene Installations-Methode. 
+   Du kannst auch die entsprechende PB99IMG-Datei herunterladen und als PB99IMG.zip
+   auf der SD-Karte speichern. Dann starte das Handy in den HBOOT-Modus (halte beim Starten
+   die Leiser-Taste gedrückt) und flashe das neue HBOOT ohne PC. Es ist danach aber notwendig,
+   dein nandroid wiederaufzuspielen oder dein ROM neu zu flashen nachdem du dies getan hast.
+   Wenn du fertig bist, hat sich das Partitions-LAYOUT geändert, die Daten müssen aber immer
+   noch verschoben werden.
+
+### Wie flashe ich InsertCoin ROM? (alle Nutzer)
  1. Stelle sicher, dass du das neuste FULL ROM hast und platziere es auf deiner SD-Karte.
  2. Boote ins Recovery-System indem du das Gerät aus- und wiedereinschaltest. Halte beim
     Wiedereinschalten die Leiser-Taste an der Seite des Geräts gedrückt (Volume down).

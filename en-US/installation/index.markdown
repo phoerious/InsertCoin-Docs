@@ -78,7 +78,7 @@ below thoroughly.
 **Also be aware that wiping your phone in order to install InsertCoin ROM will
 erase ALL your data on the device. Please make a backup before proceeding!**
 
-### Before you start
+### Annotations for Desire users
 
 #### SD Card
 You need to create a 1 GB ext3/4 partition on your card, after the FAT32 partition (which can be of any size).
@@ -86,19 +86,23 @@ You need to create a 1 GB ext3/4 partition on your card, after the FAT32 partiti
 01. Get a big SD card
 02. Partition the card. See step 5 in  http://forum.xda-developers.com/showthread.php?t=1016084
 
-#### Insert Coin type: cm7 or a2sd
+#### Insert Coin type: CM7 or A2SD
 Insert Coin is available in two "flavours" (see [versions](/master/en-US/versions.html)):
 
-1. A2SD: proceed directly to the next section (How do I flash InsertCoin ROM?)
-2. CM7: you need to change the HBOOT before proceeding (see next section). 
+1. A2SD: proceed directly to the next section (*How do I flash InsertCoin ROM?*)
+2. CM7: you need to change the HBOOT before proceeding (see next section, Alpharev). 
 
 #### Alpharev
-01. Download the "Bravo CM7 r2"'s hboot at: http://alpharev.nl/ 
-02. Confirm the md5sum of the downloaded file.
-02. Use the 2nd method described in alpharev's site: 
-- You can also download the corresponding PB99IMG zipfile, put it on your sdcard, and rename it to PB99IMG.zip. Then start the phone in HBOOT mode (VolDown+POWER) to flash the HBOOT without a PC. It is however still necessary to either restore your nandroid, or reflash your ROM after doing this. The partition LAYOUT has changed, the actual data still needs to be 'moved'
+1. Download the "Bravo CM7 r2"'s hboot at: http://alpharev.nl/ 
+2. Confirm the md5sum of the downloaded file.
+2. Use the 2nd method described in alpharev's site: 
+   You can also download the corresponding PB99IMG zipfile, put it on your sdcard,
+   and rename it to PB99IMG.zip. Then start the phone in HBOOT mode (VolDown+POWER)
+   to flash the HBOOT without a PC. It is however still necessary to either restore
+   your nandroid, or reflash your ROM after doing this. The partition LAYOUT has
+   changed, the actual data still needs to be 'moved'
 
-### How do I flash InsertCoin ROM?
+### How do I flash InsertCoin ROM? (all users)
  1. Make sure you have the latest FULL ROM and place it on your SD card. 
  2. Boot into recovery by powering off your device and turning it back on
     whilst holding down the power + volume down keys.
