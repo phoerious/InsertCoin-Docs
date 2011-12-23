@@ -105,12 +105,12 @@ Insert Coin is available in two "flavours" (see [versions](/master/en-US/version
  3. Scroll down (volume keys) to “recovery” then press the power key.
  4. Scroll down to “wipe data/factory” reset and press the power key.
     (all other cache's will be wiped automatically).
- 6. Scroll to ”install zip from your sdcard” and press the power key again.
- 7. Scroll to “choose zip from sdcard” and press the power key.
- 8. Scroll to the InsertCoin ROM file (i.e InsertCoin_Sensation_Android_x.x.x_Stable_x.x.x.zip)
+ 5. Scroll to ”install zip from your sdcard” and press the power key again.
+ 6. Scroll to “choose zip from sdcard” and press the power key.
+ 7. Scroll to the InsertCoin ROM file (i.e InsertCoin_Sensation_Android_x.x.x_Stable_x.x.x.zip)
     then press the power key once again.
- 9. Wait for the install to finish.
- 10. Push the back button, select “reboot system now” and press the power key.
+ 8. Wait for the install to finish.
+ 9. Push the back button, select “reboot system now” and press the power key.
 
 Congratulations! You have sucessfully installed InsertCoin ROM
  
@@ -120,13 +120,16 @@ Otherwise your device might not work as expected. Download the zip file for your
 well, place it next to the InsertCoin file on your SD card and repeat the steps
 below for it (if not stated otherwise in your kernel's docs).
 
+Attention! If stated explicitly for the new version, you need to do a full wipe again.
+Otherwise, this step is optional.
+
  1. Place the update on the SD card. 
  2. Boot into recovery by powering off your device and turning it back on
     whilst holding down the power + volume down keys.
  3. Scroll down (volume keys) to “recovery” then press the power key.
  4. scroll to “install zip from your sdcard” and press the power key.
  5. Scroll to “choose zip from sdcard” and press the power key.
- 8. Scroll to the InsertCoin update (i.e InsertCoin_Sensation_Android_x.x.x_Stable_x.x.x.zip)
+ 6. Scroll to the InsertCoin update (i.e InsertCoin_Sensation_Android_x.x.x_Stable_x.x.x.zip)
     then press the power key.
- 9. Wait for the install to finish.
- 10. Push the back button, select “reboot system now” and press the power key.
+ 7. Wait for the install to finish.
+ 8. Push the back button, select “reboot system now” and press the power key.
