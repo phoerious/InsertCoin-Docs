@@ -31,10 +31,9 @@ And of course we would also like to mention all the contributors who have worked
 on this project. You'll find a list in the [credits](/master/en-US/credits.html).
 
 ## About this documentation
-This is the documentation for the latest InsertCoin ROM branch which is currently
-InsertCoin Sense 3.1.x with Sense 3.5. This ROM is still considered beta, so if you
-need a more stable version, you should go for InsertCoin 2.5.x or the even more stable
-InsertCoin 2.2.5 SSE.
+This is the documentation for the latest InsertCoin ROM branch with Sense 3.5.
+This ROM is pretty stable but if you need an even more stable version,
+you should go for InsertCoin 2.5.x or InsertCoin 2.2.5 SSE (they are quite old, though).
 
 There are several variants for Sensation, Desire and EVO as well as older versions
 of these variants. Have a look at the branches list in the sidebar at the right.
