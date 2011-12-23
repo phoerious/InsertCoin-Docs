@@ -31,10 +31,9 @@ And of course we would also like to mention all the contributors who have worked
 on this project. You'll find a list in the [credits](/master/en-US/credits.html).
 
 ## About this documentation
-This is the documentation for the latest InsertCoin ROM branch which is currently
-InsertCoin Sense 3.1.x with Sense 3.5. This ROM is still considered beta, so if you
-need a more stable version, you should go for InsertCoin 2.5.x or the even more stable
-InsertCoin 2.2.5 SSE.
+This is the documentation for <strong>InsertCoin ROM 3.1.x</strong> for the HTC Sensation
+with Sense 3.5. This is not the latest version! For information about the current version
+of InsertCoin use the <a href="/master/en-US/">master branch</a> of this documentation.
 
 There are several variants for Sensation, Desire and EVO as well as older versions
 of these variants. Have a look at the branches list in the sidebar at the right.
@@ -47,10 +46,10 @@ To find out how to make your own changes to the docs read the tutorials in our l
 ## Table of contents
 This documentation contains the following pages:
 
- * [Installation instructions](/master/en-US/installation/)
- * [Which InsertCoin ROM version to choose?](/master/en-US/versions.html)
- * [Credits](/master/en-US/credits.html)
- * [Android SDK Installation](/master/en-US/AndroidSDK/)
+ * [Installation instructions](/3.1/en-US/installation/)
+ * [Which InsertCoin ROM version to choose?](/3.1/en-US/versions.html)
+ * [Credits](/3.1/en-US/credits.html)
+ * [Android SDK Installation](/3.1/en-US/AndroidSDK/)
  * Misc
-    * [Free some space on phone's memory without DATA2EXT](/master/en-US/misc/free-space-without-data2ext.html)
-    * [Troubleshooting](/master/en-US/misc/troubleshooting.html)
+    * [Free some space on phone's memory without DATA2EXT](/3.1/en-US/misc/free-space-without-data2ext.html)
+    * [Troubleshooting](/3.1/en-US/misc/troubleshooting.html)
