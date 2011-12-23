@@ -87,7 +87,7 @@ You need to create a 1 GB ext3/4 partition on your card, after the FAT32 partiti
 02. Partition the card. See step 5 in  http://forum.xda-developers.com/showthread.php?t=1016084
 
 #### Insert Coin type: CM7 or A2SD
-Insert Coin is available in two "flavours" (see [versions](/master/en-US/versions.html)):
+Insert Coin for Desire is available in two "flavours" (see [versions](/master/en-US/versions.html)):
 
 1. A2SD: proceed directly to the next section (*How do I flash InsertCoin ROM?*)
 2. CM7: you need to change the HBOOT before proceeding (see next section, Alpharev). 
