@@ -10,9 +10,8 @@ the latest versions on [insertcoin-roms.org](http://insertcoin-roms.org/)
 with short instructions about requirements and changelog.
 
 ### Discussion platforms
-For discussion about InsertCoin head over to the [InsertCoin forums](http://insertcoin-roms.org/board/).
-
-Additionally there is a huge thread on [XDA-Developers.com](http://forum.xda-developers.com/showthread.php?t=1198684)
+For discussion about InsertCoin head over to
+[XDA-Developers.com](http://forum.xda-developers.com/showthread.php?t=1198684)
 where many development related discussions take place. If you have questions,
 suggestions or bug reports, you may probably post them there.
 

@@ -13,13 +13,10 @@ stets Beschreibungen, was die Voraussetzungen für den Betrieb der jeweiligen Ve
 sind und selbstverständlich auch eine Liste der Änderungen (Changelog).
 
 ### Diskussionsplattformen
-Für Diskussionen rund um InsertCoin bietet sich das (englischsprachige)
-[InsertCoin-Forum](http://insertcoin-roms.org/board/) wunderbar an.
-
-Zusätzlich existiert ein länglicher (ebenfalls englischsprachiger) Thread auf
-[XDA-Developers.com](http://forum.xda-developers.com/showthread.php?t=1198684), wo
-viele entwicklungsrelevante Diskussionen stattfinden. Solltest du Fragen, Anregungen
-oder Bug-Reports haben, dann kannst du diese dort posten.
+Für Diskussionen rund um InsertCoin bietet sich der längliche (englischssprachige)
+InsertCoin-Thread auf [XDA-Developers.com](http://forum.xda-developers.com/showthread.php?t=1198684)
+an, in dem viele entwicklungsrelevante Diskussionen stattfinden. Solltest du Fragen,
+Anregungen oder Bug-Reports haben, dann kannst du diese dort posten.
 
 InsertCoin hat auch ein eigenes Unterforum auf
 [rootzwiki.com](http://rootzwiki.com/forumdisplay.php?301-Bricked-Kernel-InsertCoin-ROM).
