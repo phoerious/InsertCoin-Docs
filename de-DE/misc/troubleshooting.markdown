@@ -63,7 +63,7 @@ Diese Seite gibt Anleitung zur Lösung bekannter Probleme mit InsertCoin.
   beheben, indem du die Rechte für das Kontakte-Verzeichnis korrigierst.
   Dazu installiere einen [Terminal-Emulator]((https://market.android.com/details?id=jackpal.androidterm)),
   öffne ihn und tippe folgenden Befehl ein:
-  **su; chmod 666 /data/data/com.android.providers.contacts/files/*; exit** (tippe ihn
+  **su -c "chmod 644 /data/data/com.android.providers.contacts/files/*"** (tippe ihn
   *exakt* so ein, wie er hier steht, Groß- und Kleinschreibung sowie Interpunktion sind
   wichtig!). Sobald du Enter tippst, wird dich die Superuser-App fragen, ob du der
   Terminal-App root-Rechte gewähren willst. Bestätige dies, schließe den Terminal-Emulator
