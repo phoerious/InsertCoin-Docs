@@ -36,7 +36,8 @@ die zu dieser Dokumentation beigetragen haben. Eine Liste aller Mitwirkenden fin
 du auf der [Credits-Seite](/master/en-US/credits.html) (englisch).
 
 ## Über diese Dokumentation
-Dies ist die Dokumentation für den neusten InsertCoin-ROM-Zweig mit Sense 3.5.
+Dies ist die Dokumentation für den neusten **Ice-Cream-Sandwich**-InsertCoin-ROM-Zweig
+mit Sense 3.5. *Diese Version ist derzeit Beta. Erwarte nicht, dass alles reibungslos läuft!*
 Diese Version ist sehr stabil, solltest du aber eine noch stabilere (aber ältere)
 Version wünschen, so probiere doch einmal InsertCoin 2.2.5 SSE.
 

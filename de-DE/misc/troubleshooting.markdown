@@ -52,3 +52,20 @@ Diese Seite gibt Anleitung zur Lösung bekannter Probleme mit InsertCoin.
   Dein Handy funktioniert nur mit FAT32-formatierten Karten.
   Anmerkung: kaufe dir am besten immer die schnellste SD-Karte, die du dir leisten kannst.
   Alles über „Class 6“ sollte in Ordnung sein. Je höher die Klasse, desto besser.
+
+
+## Weitere Probleme
+
+* **Problem:** In der Nachrichten-App werden keine Kontaktbilder angezeigt.
+  
+  **Fix:** Dieses Problem tritt häufiger auf und kann verschiedene Ursachen haben.
+  Nicht selten ist Titanium Backup Schuld. Das Problem lässt sich jedoch recht einfach
+  beheben, indem du die Rechte für das Kontakte-Verzeichnis korrigierst.
+  Dazu installiere einen [Terminal-Emulator]((https://market.android.com/details?id=jackpal.androidterm)),
+  öffne ihn und tippe folgenden Befehl ein:
+  **su; chmod 666 /data/data/com.android.providers.contacts/files/*; exit** (tippe ihn
+  *exakt* so ein, wie er hier steht, Groß- und Kleinschreibung sowie Interpunktion sind
+  wichtig!). Sobald du Enter tippst, wird dich die Superuser-App fragen, ob du der
+  Terminal-App root-Rechte gewähren willst. Bestätige dies, schließe den Terminal-Emulator
+  und starte die Nachrichten-App neu. Du solltest nun wieder die gewohnten Kontaktbilder
+  sehen.
