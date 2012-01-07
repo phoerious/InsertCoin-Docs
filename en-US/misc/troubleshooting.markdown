@@ -45,3 +45,18 @@ This page will help you to solve common problems with InsertCoin.
   will only work with FAT32 sd cards.
   As a side note, always try and purchase the fastest sd card you can afford,
   anything over a Class 6 should be fine, higher the better.
+
+
+## Other problems
+
+* **Problem:** Contact pictures don't show up in the messages app.
+  
+  **Fix:** This is a common problem and can be caused by many things. Most often it's
+  Titanium backup messing things up. This issue can be solved by changing the permissions
+  of the contacts folder.
+  Install a [terminal emulator](https://market.android.com/details?id=jackpal.androidterm),
+  open it and type in the command
+  **su; chmod 666 /data/data/com.android.providers.contacts/files/*; exit** (write it *exactly*
+  as is, case and punctuation matter!). When you hit enter, the Superuser app asks
+  you whether you want to grant root rights. Confirm, close the terminal and restart the messages
+  app. You should now see contact pictures again.

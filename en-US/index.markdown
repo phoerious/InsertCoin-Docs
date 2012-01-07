@@ -30,7 +30,7 @@ And of course we would also like to mention all the contributors who have worked
 on this project. You'll find a list in the [credits](/master/en-US/credits.html).
 
 ## About this documentation
-This is the documentation for the latest InsertCoin ROM branch with Sense 3.5.
+This is the documentation for the latest InsertCoin ROM **Gingerbread** branch with Sense 3.5.
 This ROM is pretty stable but if you need an even more stable version,
 you should go for InsertCoin 2.2.5 SSE (this version is quite old, though).
 
