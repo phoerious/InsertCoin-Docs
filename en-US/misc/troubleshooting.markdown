@@ -52,8 +52,8 @@ This page will help you to solve common problems with InsertCoin.
 * **Problem:** Contact pictures don't show up in the messages app.
   
   **Fix:** This is a common problem and can be caused by many things. Most often it's
-  Titanium backup messing things up. This issue can be solved by changing the permissions
-  of the contacts folder.
+  Titanium backup or CWM's “Fix permissions” messing things up.
+  Fonrtunately, this issue can be solved by changing the permissions of the contacts folder.
   Install a [terminal emulator](https://market.android.com/details?id=jackpal.androidterm),
   open it and type in the command
   **su -c "chmod 775 /data/data/com.android.providers.contacts/files/\*"** (write it *exactly*
