@@ -59,8 +59,9 @@ Diese Seite gibt Anleitung zur Lösung bekannter Probleme mit InsertCoin.
 * **Problem:** In der Nachrichten-App werden keine Kontaktbilder angezeigt.
   
   **Fix:** Dieses Problem tritt häufiger auf und kann verschiedene Ursachen haben.
-  Nicht selten ist Titanium Backup Schuld. Das Problem lässt sich jedoch recht einfach
-  beheben, indem du die Rechte für das Kontakte-Verzeichnis korrigierst.
+  Nicht selten ist Titanium Backup or CWMs „Fix permissions“ Schuld.
+  Das Problem lässt sich jedoch recht einfach  beheben, indem du die Rechte
+  für das Kontakte-Verzeichnis korrigierst.
   Dazu installiere einen [Terminal-Emulator]((https://market.android.com/details?id=jackpal.androidterm)),
   öffne ihn und tippe folgenden Befehl ein:
   **su -c "chmod 775 /data/data/com.android.providers.contacts/files/\*"** (tippe ihn
