@@ -56,7 +56,7 @@ This page will help you to solve common problems with InsertCoin.
   of the contacts folder.
   Install a [terminal emulator](https://market.android.com/details?id=jackpal.androidterm),
   open it and type in the command
-  **su -c "chmod 644 /data/data/com.android.providers.contacts/files/*"** (write it *exactly*
+  **su -c "chmod 644 /data/data/com.android.providers.contacts/files/\*"** (write it *exactly*
   as is, case and punctuation matter!). When you hit enter, the Superuser app asks
   you whether you want to grant root rights. Confirm, close the terminal and restart the messages
   app. You should now see contact pictures again.
