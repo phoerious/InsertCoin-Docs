@@ -30,10 +30,8 @@ And of course we would also like to mention all the contributors who have worked
 on this project. You'll find a list in the [credits](/master/en-US/credits.html).
 
 ## About this documentation
-This is the documentation for the latest **Ice Cream Sandwich** InsertCoin ROM branch
-with Sense 3.5. *This branch is currently beta. Don't expect it to run flawlessly!*
-This ROM is pretty stable but if you need an even more stable version,
-you should go for InsertCoin 2.2.5 SSE (this version is quite old, though).
+This is the documentation for InsertCoin 5.x which is the latest **Ice Cream Sandwich** branch
+with Sense 3.6. This is the current IC stable branch and therefore the recommended version.
 
 There are several variants for Sensation, Desire and EVO as well as older versions
 of these variants. Have a look at the branches list in the sidebar at the left.
@@ -46,10 +44,10 @@ To find out how to make your own changes to the docs read the tutorials in our l
 ## Table of contents
 This documentation contains the following pages:
 
- * [Installation instructions](/master/en-US/installation/)
- * [Which InsertCoin ROM version to choose?](/master/en-US/versions.html)
- * [Credits](/master/en-US/credits.html)
- * [Android SDK Installation](/master/en-US/AndroidSDK/)
+ * [Installation instructions](/5.x/en-US/installation/)
+ * [Which InsertCoin ROM version to choose?](/5.x/en-US/versions.html)
+ * [Credits](/5.x/en-US/credits.html)
+ * [Android SDK Installation](/5.x/en-US/AndroidSDK/)
  * Misc
-    * [Free some space on phone's memory without DATA2EXT](/master/en-US/misc/free-space-without-data2ext.html)
-    * [Troubleshooting](/master/en-US/misc/troubleshooting.html)
+    * [Free some space on phone's memory without DATA2EXT](/5.x/en-US/misc/free-space-without-data2ext.html)
+    * [Troubleshooting](/5.x/en-US/misc/troubleshooting.html)

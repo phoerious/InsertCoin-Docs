@@ -36,10 +36,9 @@ die zu dieser Dokumentation beigetragen haben. Eine Liste aller Mitwirkenden fin
 du auf der [Credits-Seite](/master/en-US/credits.html) (englisch).
 
 ## Über diese Dokumentation
-Dies ist die Dokumentation für den neusten **Ice-Cream-Sandwich**-InsertCoin-ROM-Zweig
-mit Sense 3.5. *Diese Version ist derzeit Beta. Erwarte nicht, dass alles reibungslos läuft!*
-Diese Version ist sehr stabil, solltest du aber eine noch stabilere (aber ältere)
-Version wünschen, so probiere doch einmal InsertCoin 2.2.5 SSE.
+Dies ist die Dokumentation für InsertCoin 5.x, welches den aktuellen **Ice-Cream-Sandwich**-Zweig
+mit Sense 3.6. darstellt. Dies ist die derzeit als stabil angesehene und somit empfohlene
+Version.
 
 Es existieren verschiedene Varianten für das Sensation, das Desire und das EVO 3D
 sowie ältere Versionen der jeweiligen Varianten. In der Branches-Liste in der linken
@@ -54,10 +53,10 @@ einpflegen kannst, entnimmst du am besten den Tutorials in unserem kleinen
 ## Inhaltsverzeichnis
 Diese Dokumentation enthält die folgenden Seiten:
 
- * [Installationsanleitung](/master/de-DE/installation/)
- * [Welche InsertCoin-Version sollte ich nehmen?](/master/de-DE/versions.html)
- * [Credits (englisch)](/master/en-US/credits.html)
- * [Android SDK Installation (englisch)](/master/en-US/AndroidSDK/)
+ * [Installationsanleitung](/5.x/de-DE/installation/)
+ * [Welche InsertCoin-Version sollte ich nehmen?](/5.x/de-DE/versions.html)
+ * [Credits (englisch)](/5.x/en-US/credits.html)
+ * [Android SDK Installation (englisch)](/5.x/en-US/AndroidSDK/)
  * Verschiedenes
-    * [Free some space on phone's memory without DATA2EXT (englisch)](/master/en-US/misc/free-space-without-data2ext.html)
-    * [Fehlerbehebung](/master/de-DE/misc/troubleshooting.html)
+    * [Free some space on phone's memory without DATA2EXT (englisch)](/5.x/en-US/misc/free-space-without-data2ext.html)
+    * [Fehlerbehebung](/5.x/de-DE/misc/troubleshooting.html)
