@@ -30,10 +30,10 @@ And of course we would also like to mention all the contributors who have worked
 on this project. You'll find a list in the [credits](/master/en-US/credits.html).
 
 ## About this documentation
-This is the documentation for the latest **Ice Cream Sandwich** InsertCoin ROM branch
-with Sense 3.5. *This branch is currently beta. Don't expect it to run flawlessly!*
-This ROM is pretty stable but if you need an even more stable version,
-you should go for InsertCoin 2.2.5 SSE (this version is quite old, though).
+This is the documentation for the latest **Ice Cream Sandwich** branch
+with **Sense 4**. *This branch is currently in Release Candidate state. So don't
+expect everything to run as it should, yet.*
+If you need a stable version, better go for InsertCoin 5.x.
 
 There are several variants for Sensation, Desire and EVO as well as older versions
 of these variants. Have a look at the branches list in the sidebar at the left.
